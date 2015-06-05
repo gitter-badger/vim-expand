@@ -1,5 +1,7 @@
 # vim-expand
 
+[![Join the chat at https://gitter.im/Wolfy87/vim-expand](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Wolfy87/vim-expand?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Allows you to filter your current line or visual selection through the [expand][] function in place via the `:Expand` command. This allows you to write things like the following.
 
 ```javascript
